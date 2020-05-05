@@ -1,7 +1,7 @@
 # health-providers
 
 #### Definição
-Aplicação Java que receba a geolocalização do segurado e o tipo do atendimento, e retorna a lista de prestadores de saúde ordenados por proximidade. 
+Aplicação Java que recebe a geolocalização do segurado e o tipo do atendimento, e retorna a lista de prestadores de saúde ordenados por proximidade. 
 
 
 #### Start Project
